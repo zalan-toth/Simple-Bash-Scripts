@@ -1,0 +1,4 @@
+<USR-zalan><PWD-nem><Zalán><01/01/2000><zalant@hello.net>
+<USR-hello><PWD-nono><Hello><22/02/1998><something@smt.com>
+<USR-janek><PWD-janek><janek><02/01/1998><janek@janek.janek>
+<USR-dani><PWD-pwd><Daniel><12/21/2121><daniel@daniel.com>

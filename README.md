@@ -1,7 +1,7 @@
 # Simple Linux / Unix Shell Scripts
 #### Project for Operating Systems at SETU
 
-This project was uploaded to github to archive the project.
+This project was uploaded to github for archiving purposes.
 
 Feel free to use this code as you wish.
 
